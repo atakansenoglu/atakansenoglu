@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atakansenoglu
-- 👀 I’m interested in Front End Development languages, frameworks and libraries.
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on Vue.js projects.
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on native JS projects.
 - 📫 How to reach me: atakansenoglu3@gmail.com
 
 <!---
