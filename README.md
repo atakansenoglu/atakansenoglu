@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atakansenoglu
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 👀 I’m interested in backend web development.
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on native JS projects.
 - 📫 How to reach me: atakansenoglu3@gmail.com
 
